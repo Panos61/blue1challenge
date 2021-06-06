@@ -1,0 +1,18 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#login-form {
+  max-width: 400px;
+  margin: auto;
+}
+
+.error-msg {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: red;
+  padding: 10px 20px;
+  border: 1px solid orangered;
+}

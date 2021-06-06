@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "createdTimestamp": "2020-11-01T11:35:33.511Z",
+      "isAdmin": "true"
+    },
+    {
+      "id": "2",
+      "firstName": "George",
+      "lastName": "Johnson",
+      "createdTimestamp": "2020-12-04T11:35:33.511Z",
+      "isAdmin": "false"
+    },
+    {
+      "id": "3",
+      "firstName": "Anna",
+      "lastName": "Johnson",
+      "createdTimestamp": "2019-03-13T11:35:33.511Z",
+      "isAdmin": "false"
+    },
+    {
+      "id": "4",
+      "firstName": "Oliver",
+      "lastName": "Jameson",
+      "createdTimestamp": "2019-06-07T12:35:33.511Z",
+      "isAdmin": "false"
+    },
+    {
+      "id": "5",
+      "firstName": "Nick",
+      "lastName": "James",
+      "createdTimestamp": "2017-02-22T11:35:33.511Z",
+      "isAdmin": "false"
+    },
+    {
+      "id": "6",
+      "firstName": "John",
+      "lastName": "Jefferson",
+      "createdTimestamp": "2018-06-22T11:35:33.511Z",
+      "isAdmin": "false"
+    },
+    {
+      "id": "7",
+      "firstName": "Nicolas",
+      "lastName": "Cole",
+      "createdTimestamp": "2016-06-22T10:11:33.511Z",
+      "isAdmin": "false"
+    },
+    {
+      "id": "8",
+      "firstName": "Jack",
+      "lastName": "Peterson",
+      "createdTimestamp": "2021-01-10T22:10:33.511Z",
+      "isAdmin": "false"
+    },
+    {
+      "id": "9",
+      "firstName": "Daniel",
+      "lastName": "Johnson",
+      "createdTimestamp": "2020-06-22T11:35:33.511Z",
+      "isAdmin": "true"
+    },
+    {
+      "id": "10",
+      "firstName": "Alice",
+      "lastName": "James",
+      "createdTimestamp": "2017-06-02T11:35:33.511Z",
+      "isAdmin": "false"
+    }
+  ]
+}
